@@ -17,7 +17,7 @@
 -- I’ve created a view to analyse which habitats are most popular with species a certain times of the year
 
 
--- I HAVE DROPPED THE DATABASE AND THE CODE BELOW IS NOW READY TO RUN IN ONE GO! -- 
+-- THE CODE IS READY TO RUN IN ONE GO -- 
 -- 3 QUERIES HAVE LINES OF CODE COMMENTED OUT TO ALLOW YOU TO TEST THEM (CREATE VIEW, DELETED DUPLICATE ENTRY, TITLECASE VOLUNTEER NAMES)
 
 
